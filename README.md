@@ -1,6 +1,6 @@
 # Arch Linux ARM on the OnePlus 9
 
-## This is a difrect for of [this repo](https://github.com/LuCiLuna/oneplus9pro-arch/)
+## This is a direct fork of [this repo](https://github.com/LuCiLuna/oneplus9pro-arch/)
 [![Kernel build](https://github.com/LuCiLuna/oneplus9pro-arch/actions/workflows/kernel.yml/badge.svg)](https://github.com/LuCiLuna/oneplus9pro-arch/actions/workflows/kernel.yml)
 
 Native Arch Linux ARM on the OnePlus 9 (`lemonade`, Snapdragon 888 / SM8350) with a
